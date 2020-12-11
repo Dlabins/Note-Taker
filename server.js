@@ -13,7 +13,8 @@ app.use(express.json());
 app.use(express.static(__dirname));
 
 //Require the route
-require('./routes/routes')(app);
+require('./routes/Api.js')(app);
+require('./routes/HTML.js')(app);
 
 // Made listener for the port
 app.listen(PORT, function() {
