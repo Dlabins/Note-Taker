@@ -8,5 +8,5 @@ Application should allow users to delete previously saved notes.
 
 This project can be found at https://dlabins-note-taker.herokuapp.com/.
 
-![snapshot](assets/images/notehome.png)
-![snapshot](assets/images/note.png)
+![snapshot](public/assets/images/notehome.png)
+![snapshot](public/assets/images/note.png)
